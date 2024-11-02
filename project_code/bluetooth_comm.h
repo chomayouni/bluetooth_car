@@ -1,7 +1,7 @@
 #ifndef BLUETOOTH_COMM_H
 #define BLUETOOTH_COMM_H
 
-#include "TM4C123.h" // TODO swtich this to the correct header file
+#include "C:\Keil_v5\Lab 2\inc/tm4c123gh6pm.h" // TODO swtich this to the correct header file
 #include <stdint.h>
 #include <stdlib.h>
 
